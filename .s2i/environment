@@ -1,0 +1,1 @@
+DOTNET_STARTUP_PROJECT=samples/WebApiContrib.Core.Samples/WebApiContrib.Core.Samples.csproj
